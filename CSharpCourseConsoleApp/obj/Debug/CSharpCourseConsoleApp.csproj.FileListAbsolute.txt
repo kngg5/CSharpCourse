@@ -1,0 +1,8 @@
+K:\repos\CSharpCourseConsoleApp\CSharpCourseConsoleApp\bin\Debug\CSharpCourseConsoleApp.exe.config
+K:\repos\CSharpCourseConsoleApp\CSharpCourseConsoleApp\bin\Debug\CSharpCourseConsoleApp.exe
+K:\repos\CSharpCourseConsoleApp\CSharpCourseConsoleApp\bin\Debug\CSharpCourseConsoleApp.pdb
+K:\repos\CSharpCourseConsoleApp\CSharpCourseConsoleApp\obj\Debug\CSharpCourseConsoleApp.csproj.AssemblyReference.cache
+K:\repos\CSharpCourseConsoleApp\CSharpCourseConsoleApp\obj\Debug\CSharpCourseConsoleApp.csproj.SuggestedBindingRedirects.cache
+K:\repos\CSharpCourseConsoleApp\CSharpCourseConsoleApp\obj\Debug\CSharpCourseConsoleApp.csproj.CoreCompileInputs.cache
+K:\repos\CSharpCourseConsoleApp\CSharpCourseConsoleApp\obj\Debug\CSharpCourseConsoleApp.exe
+K:\repos\CSharpCourseConsoleApp\CSharpCourseConsoleApp\obj\Debug\CSharpCourseConsoleApp.pdb
