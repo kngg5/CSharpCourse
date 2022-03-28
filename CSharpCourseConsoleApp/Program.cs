@@ -12,7 +12,7 @@ namespace CSharpCourseConsoleApp
         {
             
 
-
+           Console.WriteLine("Fake Report");       
 
 
         }
