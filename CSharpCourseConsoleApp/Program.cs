@@ -14,7 +14,12 @@ namespace CSharpCourseConsoleApp
 
            Console.WriteLine("Fake Report");       
            Console.WriteLine("Git repo cloned");
-          
+
+            void Fake()
+            {
+                string info = "John";
+                int age = 25;
+            };
         }
     }
 }
